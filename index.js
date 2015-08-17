@@ -8,9 +8,12 @@ function Include(includePath)
         //
         requirePath = path.join(__dirname, includePath);
     }
-    else{
+    else if(includePath[0] == "/"){
         //
         requirePath = path.join(appRootPath.path, includePath);
+    }
+    else{
+        requirePath = includePath;
     }
     return require(requirePath);
 }
