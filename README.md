@@ -4,7 +4,7 @@ use to include absolute path or relative path file
 
 # **Installation** #
 
-	npm install include --save
+	npm install node-include --save
 
 # **Usage** #
 

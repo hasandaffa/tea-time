@@ -1,16 +1,13 @@
 {
-  "name": "include",
+  "name": "node-include",
   "version": "0.1.0",
   "description": "use to include absolute path or relative path file",
   "main": "index.js",
   "directories": {
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lautitia/include.git"
+    "url": "git+https://github.com/Lautitia/node-include.git"
   },
   "keywords": [
     "node",
