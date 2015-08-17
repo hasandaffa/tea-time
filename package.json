@@ -1,5 +1,5 @@
 {
-  "name": "node-include",
+  "name": "include-node",
   "version": "0.1.0",
   "description": "use to include absolute path or relative path file",
   "main": "index.js",

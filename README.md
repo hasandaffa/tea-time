@@ -1,10 +1,10 @@
-# include
+# include-node
 
 use to include absolute path or relative path file
 
 # **Installation** #
 
-	npm install node-include --save
+	npm install include-node --save
 
 # **Usage** #
 
