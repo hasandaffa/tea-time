@@ -1,0 +1,30 @@
+{
+  "name": "include",
+  "version": "1.0.0",
+  "description": "use to include absolute path or relative path file",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lautitia/include.git"
+  },
+  "keywords": [
+    "node",
+    "include"
+  ],
+  "author": "Yi Zhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lautitia/include/issues"
+  },
+  "homepage": "https://github.com/Lautitia/include#readme",
+  "dependencies": {
+    "app-root-path": "^1.0.0"
+  },
+  "devDependencies": {}
+}
